@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.NET\\ASP.NET\\MVC App\\NICRegister\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B018D4CA-5626-4714-A753-08DF86D734D3}|NICRegister\\NICRegister.csproj|d:\\.net\\asp.net\\mvc app\\nicregister\\nicregister\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B018D4CA-5626-4714-A753-08DF86D734D3}|NICRegister\\NICRegister.csproj|solutionrelative:nicregister\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B018D4CA-5626-4714-A753-08DF86D734D3}|NICRegister\\NICRegister.csproj|d:\\.net\\asp.net\\mvc app\\nicregister\\nicregister\\views\\register\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B018D4CA-5626-4714-A753-08DF86D734D3}|NICRegister\\NICRegister.csproj|solutionrelative:nicregister\\views\\register\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B018D4CA-5626-4714-A753-08DF86D734D3}|NICRegister\\NICRegister.csproj|d:\\.net\\asp.net\\mvc app\\nicregister\\nicregister\\models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B018D4CA-5626-4714-A753-08DF86D734D3}|NICRegister\\NICRegister.csproj|solutionrelative:nicregister\\models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B018D4CA-5626-4714-A753-08DF86D734D3}|NICRegister\\NICRegister.csproj|d:\\.net\\asp.net\\mvc app\\nicregister\\nicregister\\models\\addregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B018D4CA-5626-4714-A753-08DF86D734D3}|NICRegister\\NICRegister.csproj|solutionrelative:nicregister\\models\\addregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B018D4CA-5626-4714-A753-08DF86D734D3}|NICRegister\\NICRegister.csproj|d:\\.net\\asp.net\\mvc app\\nicregister\\nicregister\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B018D4CA-5626-4714-A753-08DF86D734D3}|NICRegister\\NICRegister.csproj|solutionrelative:nicregister\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B018D4CA-5626-4714-A753-08DF86D734D3}|NICRegister\\NICRegister.csproj|d:\\.net\\asp.net\\mvc app\\nicregister\\nicregister\\views\\register\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B018D4CA-5626-4714-A753-08DF86D734D3}|NICRegister\\NICRegister.csproj|solutionrelative:nicregister\\views\\register\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B018D4CA-5626-4714-A753-08DF86D734D3}|NICRegister\\NICRegister.csproj|d:\\.net\\asp.net\\mvc app\\nicregister\\nicregister\\dbcontexts\\nicdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B018D4CA-5626-4714-A753-08DF86D734D3}|NICRegister\\NICRegister.csproj|solutionrelative:nicregister\\dbcontexts\\nicdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B018D4CA-5626-4714-A753-08DF86D734D3}|NICRegister\\NICRegister.csproj|d:\\.net\\asp.net\\mvc app\\nicregister\\nicregister\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B018D4CA-5626-4714-A753-08DF86D734D3}|NICRegister\\NICRegister.csproj|solutionrelative:nicregister\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B018D4CA-5626-4714-A753-08DF86D734D3}|NICRegister\\NICRegister.csproj|d:\\.net\\asp.net\\mvc app\\nicregister\\nicregister\\views\\register\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B018D4CA-5626-4714-A753-08DF86D734D3}|NICRegister\\NICRegister.csproj|solutionrelative:nicregister\\views\\register\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B018D4CA-5626-4714-A753-08DF86D734D3}|NICRegister\\NICRegister.csproj|d:\\.net\\asp.net\\mvc app\\nicregister\\nicregister\\automaping\\automapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B018D4CA-5626-4714-A753-08DF86D734D3}|NICRegister\\NICRegister.csproj|solutionrelative:nicregister\\automaping\\automapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B018D4CA-5626-4714-A753-08DF86D734D3}|NICRegister\\NICRegister.csproj|d:\\.net\\asp.net\\mvc app\\nicregister\\nicregister\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B018D4CA-5626-4714-A753-08DF86D734D3}|NICRegister\\NICRegister.csproj|solutionrelative:nicregister\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "site.js",
+              "DocumentMoniker": "D:\\.NET\\ASP.NET\\MVC App\\NICRegister\\NICRegister\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "NICRegister\\wwwroot\\js\\site.js",
+              "ToolTip": "D:\\.NET\\ASP.NET\\MVC App\\NICRegister\\NICRegister\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "NICRegister\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-24T09:52:23.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.cs",
+              "DocumentMoniker": "D:\\.NET\\ASP.NET\\MVC App\\NICRegister\\NICRegister\\Models\\Register.cs",
+              "RelativeDocumentMoniker": "NICRegister\\Models\\Register.cs",
+              "ToolTip": "D:\\.NET\\ASP.NET\\MVC App\\NICRegister\\NICRegister\\Models\\Register.cs",
+              "RelativeToolTip": "NICRegister\\Models\\Register.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAuwBgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T08:29:23.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegisterController.cs",
+              "DocumentMoniker": "D:\\.NET\\ASP.NET\\MVC App\\NICRegister\\NICRegister\\Controllers\\RegisterController.cs",
+              "RelativeDocumentMoniker": "NICRegister\\Controllers\\RegisterController.cs",
+              "ToolTip": "D:\\.NET\\ASP.NET\\MVC App\\NICRegister\\NICRegister\\Controllers\\RegisterController.cs",
+              "RelativeToolTip": "NICRegister\\Controllers\\RegisterController.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAADwv3oAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T07:09:47.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.NET\\ASP.NET\\MVC App\\NICRegister\\NICRegister\\Program.cs",
+              "RelativeDocumentMoniker": "NICRegister\\Program.cs",
+              "ToolTip": "D:\\.NET\\ASP.NET\\MVC App\\NICRegister\\NICRegister\\Program.cs",
+              "RelativeToolTip": "NICRegister\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAUwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T06:11:22.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NICDBContext.cs",
+              "DocumentMoniker": "D:\\.NET\\ASP.NET\\MVC App\\NICRegister\\NICRegister\\DbContexts\\NICDBContext.cs",
+              "RelativeDocumentMoniker": "NICRegister\\DbContexts\\NICDBContext.cs",
+              "ToolTip": "D:\\.NET\\ASP.NET\\MVC App\\NICRegister\\NICRegister\\DbContexts\\NICDBContext.cs",
+              "RelativeToolTip": "NICRegister\\DbContexts\\NICDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T07:12:28.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\.NET\\ASP.NET\\MVC App\\NICRegister\\NICRegister\\Views\\Register\\Add.cshtml",
+              "RelativeDocumentMoniker": "NICRegister\\Views\\Register\\Add.cshtml",
+              "ToolTip": "D:\\.NET\\ASP.NET\\MVC App\\NICRegister\\NICRegister\\Views\\Register\\Add.cshtml",
+              "RelativeToolTip": "NICRegister\\Views\\Register\\Add.cshtml",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAF0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T07:11:16.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddRegister.cs",
+              "DocumentMoniker": "D:\\.NET\\ASP.NET\\MVC App\\NICRegister\\NICRegister\\Models\\AddRegister.cs",
+              "RelativeDocumentMoniker": "NICRegister\\Models\\AddRegister.cs",
+              "ToolTip": "D:\\.NET\\ASP.NET\\MVC App\\NICRegister\\NICRegister\\Models\\AddRegister.cs",
+              "RelativeToolTip": "NICRegister\\Models\\AddRegister.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T07:15:57.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "D:\\.NET\\ASP.NET\\MVC App\\NICRegister\\NICRegister\\Views\\Register\\List.cshtml",
+              "RelativeDocumentMoniker": "NICRegister\\Views\\Register\\List.cshtml",
+              "ToolTip": "D:\\.NET\\ASP.NET\\MVC App\\NICRegister\\NICRegister\\Views\\Register\\List.cshtml",
+              "RelativeToolTip": "NICRegister\\Views\\Register\\List.cshtml",
+              "ViewState": "AQIAADgAAAAAAAAAAAAswEAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T09:10:05.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\.NET\\ASP.NET\\MVC App\\NICRegister\\NICRegister\\Views\\Register\\Edit.cshtml",
+              "RelativeDocumentMoniker": "NICRegister\\Views\\Register\\Edit.cshtml",
+              "ToolTip": "D:\\.NET\\ASP.NET\\MVC App\\NICRegister\\NICRegister\\Views\\Register\\Edit.cshtml",
+              "RelativeToolTip": "NICRegister\\Views\\Register\\Edit.cshtml",
+              "ViewState": "AQIAAA4AAAAAAAAAAAD4vy8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T08:55:30.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Automapping.cs",
+              "DocumentMoniker": "D:\\.NET\\ASP.NET\\MVC App\\NICRegister\\NICRegister\\Automaping\\Automapping.cs",
+              "RelativeDocumentMoniker": "NICRegister\\Automaping\\Automapping.cs",
+              "ToolTip": "D:\\.NET\\ASP.NET\\MVC App\\NICRegister\\NICRegister\\Automaping\\Automapping.cs",
+              "RelativeToolTip": "NICRegister\\Automaping\\Automapping.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T08:31:52.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\.NET\\ASP.NET\\MVC App\\NICRegister\\NICRegister\\appsettings.json",
+              "RelativeDocumentMoniker": "NICRegister\\appsettings.json",
+              "ToolTip": "D:\\.NET\\ASP.NET\\MVC App\\NICRegister\\NICRegister\\appsettings.json",
+              "RelativeToolTip": "NICRegister\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-24T08:37:06.662Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

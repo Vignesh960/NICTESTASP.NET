@@ -1,0 +1,78 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+
+@model List<NICRegister.Models.Register>
+@if (TempData["Alert"] != null)
+{
+    <div class="alert alert-success" role="alert">
+        @TempData["Alert"]
+    </div>
+}
+@if(Model is null)
+{
+    <div class="alert alert-warning" role="alert">
+       No registered users Found
+    </div>
+}
+else
+{
+    <h1>Registred Users</h1>
+<table class="table table-hover border-black border radius-2">
+    <thead>
+        <tr class="text-uppercase">
+            <th scope="col">Id</th>
+            <th scope="col">Name</th>
+            <th scope="col">FatherName</th>
+            <th scope="col">Gender</th>
+            <th scope="col">Email</th>
+            <th scope="col">Mobile</th>
+            <th scope="col">AdharNumber</th>
+            <th scope="col">District</th>
+            <th scope="col">Mondal</th>
+            <th scope="col">Village</th>
+            <th scope="col">Address</th>
+            <th scope="col">Image</th>
+            <th scope="col">Modify</th>
+        </tr>
+    </thead>
+    <tbody>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Name</td>
+                <td>@item.FatherName</td>
+                <td>@item.Gender</td>
+                <td>@item.Email</td>
+                <td>@item.Mobile</td>
+                <td>@item.AdharNumber</td>
+                <td>@item.District</td>
+                <td>@item.Mondal</td>
+                <td>@item.Village</td>
+                <td>@item.Address</td>
+                    <td>
+                        @if (!string.IsNullOrEmpty(item.ImagePath))
+                    {
+                        <img src="@item.ImagePath" alt="Image" style="width:50px;height:50%; border:20px;" />
+                    }
+                    else
+                    {
+                        <span>No Image</span>
+                    }
+                    </td>
+                
+                <td>
+                    <a class="text-decoration-none border-2 btn btn-primary" asp-controller="Register" asp-action="Edit" asp-route-id="@item.Id">Edit</a></td>
+            </tr>
+        }
+
+
+    </tbody>
+</table>
+}
+

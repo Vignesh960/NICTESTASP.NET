@@ -1,0 +1,97 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model NICRegister.Models.Register
+<h1>Register</h1>
+<form method="post" asp-action="Add" enctype="multipart/form-data">
+
+    
+
+
+
+
+
+
+
+    <div class="form-row">
+        <div class="form-group">
+            <label for="inputName">Name</label>
+            <input type="text" class="form-control" id="inputName" placeholder="Name" required asp-for="Name">
+        </div>
+        <div class="form-group">
+            <label for="inputFName">Father Name</label>
+            <input type="text" class="form-control" id="inputFName" placeholder="Father Name" required asp-for="FatherName">
+        </div>
+
+        <div class="form-group">
+            <label for="Gender">Gender</label>
+            <select class="form-control" id="Gender" asp-for="Gender" required>
+                <option>Male</option>
+                <option>Female</option>
+            </select>
+        </div>
+
+
+
+
+
+
+
+
+        @* <div class="form-group">
+            <label for="Gender">Gender</label>
+            <input type="text" class="form-control" id="Gender" placeholder="Gender" required asp-for="Gender">
+        </div> *@
+        <div class="form-group col-md-12 ">
+            <label for="inputEmail4">Email</label>
+            <input type="email" class="form-control" id="inputEmail4" required asp-for="Email">
+        </div>
+
+    </div>
+    <div class="form-group row">
+        <label for="inputContact">Mobile</label>
+        <input type="text" class="form-control" id="inputContact" placeholder="123456789" maxlength="10" asp-for="Mobile">
+    </div> 
+    <div class="form-group row">
+        <label for="inputAdhar">Adhar</label>
+        <input type="number" class="form-control" id="inputAdhar" placeholder="123456789" required asp-for="AdharNumber">
+    </div>
+    <div class="form-group">
+        <label for="District">District</label>
+        <select class="form-control" id="exampleFormControlSelect1" asp-for="District" required>
+            <option>Hyderabad</option>
+        </select>
+    </div>
+    <div class="form-group">
+        <label for="Mondal">Mondal</label>
+        <select class="form-control" id="Mondal" asp-for="Mondal" required>
+            <option>Kukatpally</option>
+        </select>
+    </div>
+    <div class="form-group">
+        <label for="Village">Village</label>
+        <select class="form-control" id="Village" asp-for="Village" required>
+            <option>Kukatpally</option>
+        </select>
+    </div>
+    <div class="form-group row">
+        <label for="inputAddres">Address</label>
+        <input type="text" class="form-control" id="inputAddres" placeholder="Adress"  asp-for="Address">
+    </div>
+
+    <div class="input-group mt-2 p-1">
+        <div class="input-group-prepend">
+            <span class="input-group-text" id="inputGroupFileAddon01">Upload</span>
+        </div>
+        <div class="custom-file mt-2">
+            <input type="file" class="custom-file-input" id="inputGroupFile01" aria-describedby="inputGroupFileAddon01" name="ImageFile">
+            <label class="custom-file-label" for="inputGroupFile01">Choose file</label>
+        </div>
+    </div>
+
+
+
+    <button type="submit" class="btn btn-primary mt-2">Save</button>
+</form>
